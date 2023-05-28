@@ -1,5 +1,6 @@
 body {
-    background: black cover;
+    background: black;
+    color: white;
     font-family: 'Montserrat';
     font-weight: bold;
     text-align: center;
@@ -28,10 +29,10 @@ button {
 }
 
 #increment-btn {
-    background: darkred;
+    background: grey;
 }
 
 #save-btn {
-    background: darkgreen;
+    background: rgb(58, 58, 58);
 }
 
